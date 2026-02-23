@@ -5,3 +5,16 @@ theme = 'PaperMod'
 
 [params]
 author = "Gowtham A R"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/Gowtham_AynaRaveendran.pdf"
+    weight = 20
