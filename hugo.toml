@@ -16,5 +16,5 @@ author = "Gowtham A R"
   [[menu.main]]
     identifier = "resume"
     name = "Resume"
-    url = "/Gowtham_AynaRaveendran.pdf"
+    url = "/gowtham_aynaraveendran.pdf"
     weight = 20
